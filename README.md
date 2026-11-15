@@ -55,27 +55,13 @@ To install the extra HTML reporter:
 npm install -g newman-reporter-htmlextra
 ```
 
----
-
-## 🎓 Certification Info
-
-* **Postman Student Expert** Certified
-* **Email:** [rathavachirag921@gmail.com](mailto:rathavachirag921@gmail.com)
-* **Certification ID:** `2q2jokzsn62y8`
-
----
-
-## 📄 License
-
-This repository is shared under the **MIT License** and is intended for educational and non-commercial use only.
 
 ---
 
 ## 👨‍💻 Author
 
-**Chirag Rathava**
-Postman Student Expert Candidate
-📧 [rathavachirag921@gmail.com](mailto:rathavachirag921@gmail.com)
+**Mahesh M**
+
 
 ---
 
